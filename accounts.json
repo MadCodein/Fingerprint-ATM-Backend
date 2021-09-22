@@ -1,0 +1,32 @@
+{
+  "_comment": " pin for account 1 = 2122",
+  "_comment1": " pin for account 2 = 3133",
+  "_comment2": " pin for account 3 = 4144",
+  "_comment3": " pin for account 4 = 5155",
+  "userAccounts": [
+    {
+      "username": "Michael Owusu",
+      "accountNo": "001",
+      "pin": "$2a$10$IfYHu06F49KMAVUI07/sD.xC2GzXORFCfsGmNA./sL3p6qf/dbUh6",
+      "accountBal": 2000
+    },
+    {
+      "username": "Steve Commey",
+      "accountNo": "002",
+      "pin": "$2a$10$V5mmkFiLx/dZJQkf06Vl/eg1TEf89uSJ.hrunt1QzSULGlKKyz.GO",
+      "accountBal": 100000
+    },
+    {
+      "username": "Loyalt Nana Kwaku",
+      "accountNo": "003",
+      "pin": "$2a$10$u5AoTCTV0I5ontEbDYl.OuclOktoJ7a33pkwCsUiNLNhDqFjoiNoe",
+      "accountBal": 400000
+    },
+    {
+      "username": "Keith Myers",
+      "accountNo": "004",
+      "pin": "$2a$10$CIfs8OAnAcN9sIBl0t.5decbNaPwsoVBQD053VrsgemCj4H5HHGk6",
+      "accountBal": 150000
+    }
+  ]
+}
